@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://kexagon.github.io/testing/post/testing/</loc>
+    <lastmod>2017-03-04T10:00:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kexagon.github.io/testing/post/Ein%20vierter%20Tag/</loc>
+    <lastmod>2017-03-04T10:54:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kexagon.github.io/testing/post/post-title/</loc>
+    <lastmod>2014-07-11T10:54:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kexagon.github.io/testing/post/</loc>
+    <lastmod>2017-03-04T10:00:50+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kexagon.github.io/testing/tags/tag1/</loc>
+    <lastmod>2014-07-11T10:54:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kexagon.github.io/testing/tags/tag2/</loc>
+    <lastmod>2014-07-11T10:54:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kexagon.github.io/testing/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kexagon.github.io/testing/</loc>
+    <lastmod>2017-03-04T10:00:50+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
